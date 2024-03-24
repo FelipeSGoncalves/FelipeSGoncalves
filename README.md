@@ -22,7 +22,5 @@ Neste perfil você encontrará alguns dos meus estudos, projetos pessoais e trab
 | <code><img height="25" alt="react" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"></code>
 | <code><img height="25" alt="ts" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></code>
 
-| <a href="https://github.com/FelipeSGoncalves/FelipeSGoncalves"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeSGoncalves&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/FelipeSGoncalves/FelipeSGoncalves/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSGoncalves&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+|<a href="https://github.com/FelipeSGoncalves/FelipeSGoncalves/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=FelipeSGoncalves&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
