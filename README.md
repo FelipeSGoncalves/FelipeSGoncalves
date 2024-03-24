@@ -1,6 +1,6 @@
 ## Hello World🫡
 
-Bem-vindo(a) ao meu perfil do GitHub! Meu nome é Felipe Gonçalves, sou um estudante e desenvolvedor de 19 anos formado como *Técnico em Informática* pelo Instituto Federal do Paraná - Campus Foz do Iguaçu. Atualmente estou cursando superior em ***Análise e Desenvolvimento de Sistemas***.
+Bem-vindo(a) ao meu perfil do GitHub! Meu nome é Felipe Gonçalves, técnico em TI e desenvolvedor de 20 anos formado como *Técnico em Informática* pelo Instituto Federal do Paraná - Campus Foz do Iguaçu. Atualmente estou cursando superior em ***Análise e Desenvolvimento de Sistemas*** e trabalhando como TI. 
 
 Neste perfil você encontrará alguns dos meus estudos, projetos pessoais e trabalhos desenvolvidos. Dentre eles, o mais recente é a plataforma <a href="https://github.com/DevGateOficial/"> DevGate </a>, apresentada como Projeto Final de Curso(uma espécie de TCC). Sinta-se à vontade para explorar e dar dicas.
 
